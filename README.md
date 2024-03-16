@@ -1,2 +1,2 @@
-## house-price-prediction
+## House-price-prediction
 Predicting house prices using Linear Regression and Gradient Boosting Regressor
